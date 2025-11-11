@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Dzaky Rezandi </h1>
 <p align="center">
-  <img src="https://github.com/Jakij4ki/Jakij4ki/blob/main/assets/hirono-banner.png" alt="Hirono inspired banner" width="900"/>
+  <img src="https://github.com/Jakij4ki/Jakij4ki/blob/main/assets/hirono-banner.png" alt="Hirono inspired banner" width="1000"/>
 </p>
 
 ---
