@@ -47,7 +47,6 @@ Calm, curious, and always learning — I like building things that feel minimal 
 ### ☕ Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/dzakyrezandi">LinkedIn</a> • 
-  <a href="mailto:dzakyrezandi1714@gmail.com">Email</a>
 </p>
 
 ---
