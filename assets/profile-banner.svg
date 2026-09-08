@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Dzaky Rezandi GitHub profile banner</title>
+  <desc id="desc">Minimal dark banner with Dzaky Rezandi and Data, Machine Learning, Data Engineering focus.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0b0d"/>
+      <stop offset="65%" stop-color="#15151a"/>
+      <stop offset="100%" stop-color="#24202d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8b72ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#8b72ff"/>
+      <stop offset="100%" stop-color="#8b72ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
+  <g opacity="0.16" stroke="#ffffff" stroke-width="1">
+    <path d="M0 64H1280"/><path d="M0 128H1280"/><path d="M0 192H1280"/><path d="M0 256H1280"/>
+    <path d="M128 0V320"/><path d="M256 0V320"/><path d="M384 0V320"/><path d="M512 0V320"/>
+    <path d="M768 0V320"/><path d="M896 0V320"/><path d="M1024 0V320"/><path d="M1152 0V320"/>
+  </g>
+
+  <g fill="none" stroke="#8b72ff" stroke-width="2" opacity="0.72">
+    <path d="M965 56h170v55h-78v54h-92z"/>
+    <path d="M1060 165h108v48h-108z"/>
+    <circle cx="1210" cy="70" r="26"/>
+    <circle cx="930" cy="238" r="18"/>
+  </g>
+
+  <rect x="86" y="78" width="56" height="4" rx="2" fill="#8b72ff"/>
+  <text x="86" y="150" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="700" letter-spacing="2">DZAKY REZANDI</text>
+  <text x="88" y="188" fill="#bdb7cc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" letter-spacing="3">DATA SCIENCE  •  MACHINE LEARNING  •  DATA ENGINEERING</text>
+  <rect x="88" y="222" width="520" height="2" fill="url(#accent)"/>
+  <text x="88" y="252" fill="#8f899c" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Building practical systems from data to models.</text>
+
+  <g fill="#8b72ff">
+    <circle cx="90" cy="286" r="3"/><circle cx="106" cy="286" r="3"/><circle cx="122" cy="286" r="3"/>
+  </g>
+</svg>
